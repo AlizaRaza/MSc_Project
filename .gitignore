@@ -1,0 +1,6 @@
+*.keras
+*.npy
+__pycache__/
+.DS_Store
+*.h5
+FADC_split/
